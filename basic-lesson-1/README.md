@@ -6,7 +6,8 @@ A structured series of Python lessons comparing NumPy with pure Python approache
 
 ### 📚 Lesson 1: Introduction (`lesson1_intro.py`)
 - NumPy basics and benefits
-- Basic array creation and properties
+- Basic array creation and properties (type, dtype, shape, ndim, size)
+- 1D, 2D, and 3D array examples
 - Why NumPy matters for scientific computing
 
 ### ⏱️ Lesson 2: Creation Comparison (`lesson2_creation_comparison.py`)

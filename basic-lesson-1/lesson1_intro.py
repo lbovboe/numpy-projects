@@ -29,7 +29,23 @@ print('Basic array:', basic_array)
 print('Array type:', type(basic_array))
 print('Element type:', basic_array.dtype)
 print('Array shape:', basic_array.shape)
+print('Array dimensions:', basic_array.ndim)
 print('Array size:', basic_array.size)
+
+print('\nDifferent dimensional arrays:')
+# 1D array
+arr_1d = np.array([1, 2, 3])
+print(f'1D array: {arr_1d} | ndim: {arr_1d.ndim} | shape: {arr_1d.shape}')
+
+# 2D array
+arr_2d = np.array([[1, 2, 3], [4, 5, 6]])
+print(f'2D array:\n{arr_2d}')
+print(f'ndim: {arr_2d.ndim} | shape: {arr_2d.shape}')
+
+# 3D array
+arr_3d = np.array([[[1, 2], [3, 4]], [[5, 6], [7, 8]]])
+print(f'3D array:\n{arr_3d}')
+print(f'ndim: {arr_3d.ndim} | shape: {arr_3d.shape}')
 
 print("""
 Next lessons:
