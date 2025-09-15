@@ -1,0 +1,9 @@
+
+Performance Results (50,000 elements):
+========================================
+NumPy Vectorization: 0.000456s
+List Comprehension: 0.001066s
+Map Function: 0.001642s
+NumPy with Conversion: 0.001973s
+For Loop + Append: 0.002755s
+In-place Update: 0.004099s
