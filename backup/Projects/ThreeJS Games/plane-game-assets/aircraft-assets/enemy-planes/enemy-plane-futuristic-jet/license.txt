@@ -1,0 +1,11 @@
+Model Information:
+* title:	Futuristic Jet Plane
+* source:	https://sketchfab.com/3d-models/futuristic-jet-plane-e74ee75e1aaf42deac16fe11aa4933e5
+* author:	Yash Dushettiwar (https://sketchfab.com/Yash-D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Futuristic Jet Plane" (https://sketchfab.com/3d-models/futuristic-jet-plane-e74ee75e1aaf42deac16fe11aa4933e5) by Yash Dushettiwar (https://sketchfab.com/Yash-D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
